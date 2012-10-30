@@ -1,7 +1,7 @@
-# revision 25180
+# revision 27897
 # category Package
 # catalog-ctan /macros/latex/contrib/xpatch
-# catalog-date 2012-01-23 12:18:32 +0100
+# catalog-date 2012-03-12 18:26:56 +0100
 # catalog-license lppl1.3
 # catalog-version 0.2
 Name:		texlive-xpatch
