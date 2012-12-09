@@ -1,12 +1,12 @@
-# revision 27897
+# revision 25180
 # category Package
 # catalog-ctan /macros/latex/contrib/xpatch
-# catalog-date 2012-03-12 18:26:56 +0100
+# catalog-date 2012-01-23 12:18:32 +0100
 # catalog-license lppl1.3
 # catalog-version 0.2
 Name:		texlive-xpatch
 Version:	0.2
-Release:	2
+Release:	1
 Summary:	Extending etoolbox patching commands
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xpatch
@@ -49,3 +49,11 @@ Philipp Lehmann's etoolbox.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Feb 01 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.2-1
++ Revision: 770314
+- texlive-xpatch
+- texlive-xpatch
+
