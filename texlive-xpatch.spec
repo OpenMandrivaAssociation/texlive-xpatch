@@ -1,6 +1,6 @@
 Name:		texlive-xpatch
 Version:	54563
-Release:	1
+Release:	2
 Summary:	Extending etoolbox patching commands
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xpatch
